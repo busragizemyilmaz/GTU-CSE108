@@ -1,0 +1,6 @@
+Instructor,John Parker,Computer Science,CSE100,CSE200,100000
+Employee,Marry James,300000,a
+Employee,Terry Maple,35000,b
+Instructor,Ali Topuz,Biology,BIO244,BIO120,80000
+Employee,Carol Heinz,40000,b
+Instructor,Busra Yılmaz,Computer Science,CSE108,CSE102,500000

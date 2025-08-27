@@ -124,13 +124,11 @@ int main()
 {
     generate *head = NULL;
     generate *node;
-    generate *temp;
     shape_type type;
     char command[100];
     int n;
     double value;
     char string[100];
-    int found;
     int total_nodes = 0;
     int processed_nodes = 0;
 

@@ -8,7 +8,9 @@ This repository contains solutions to the CSE108 Computer Programming Lab exerci
 
 ### Each folder includes:
 - The original lab sheets (PDFs)
-- The C code solutions that I wrote 
+- The C code solutions that I wrote
+
+----
 
 👉 I hope this repository will be helpful for you!
 
